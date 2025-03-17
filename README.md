@@ -1,17 +1,3 @@
----
-title: 'Setting Up a Nuxt 3 Starter Project'
-date: 17/03/25
-description: 'How to set up a Nuxt 3 project, install essential modules, and follow best practices for a clean and efficient development process.'
-image: /blog-img/nuxt-setup-2025/thumbnail.png
-alt: 'Nuxt 3 Starter Project'
-published: true
-sitemap:
-  loc: /blog/11-Nuxt-setup-2025
-  lastmod: 2025-03-17
-  changefreq: monthly
-  priority: 0.8
----
-
 # Setting Up a Nuxt 3 Starter Project
 
 Nuxt 3 is a robust framework designed for building modern web applications using Vue.js. This guide will walk you through the process of setting up a Nuxt 3 project, installing essential modules, and adhering to best practices to maintain a clean and efficient development workflow. You can view the completed project on [GitHub](https://github.com/LukasOlivier/nuxt-starter).
